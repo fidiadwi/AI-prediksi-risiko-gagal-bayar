@@ -1,0 +1,15 @@
+{
+  "dataset": "UCI Default of Credit Card Clients",
+  "uci_dataset_id": 350,
+  "selected_model": "Logistic Regression",
+  "selection_metric": "F1-score pada validation set",
+  "test_metrics": {
+    "accuracy": 0.694,
+    "precision": 0.38530869761153674,
+    "recall": 0.6443104747550866,
+    "f1_score": 0.48223350253807107,
+    "roc_auc": 0.7287816088543415
+  },
+  "random_state": 42,
+  "note": "Dataset ini memprediksi default pembayaran kartu kredit, bukan keterlambatan invoice."
+}
