@@ -22,14 +22,6 @@ Tujuan
 6. Mengevaluasi model terpilih pada test set.
 7. Menyimpan model dan hasil evaluasi.
 
-Cara menjalankan di Google Colab
-1. Buka https://colab.research.google.com/
-2. Pilih File → Upload notebook.
-3. Unggah Prediksi_Risiko_Gagal_Bayar.ipynb.
-4. Jalankan code cell dari atas ke bawah. Pastikan koneksi internet aktif saat dataset diunduh.
-5. Setelah CELL 22 selesai, buka panel Files di Colab.
-6. Klik kanan hasil_project.zip, lalu pilih Download.
-
 Metode dan metrik
 - Pemeriksaan data dan statistik deskriptif
 - Analisis distribusi target
